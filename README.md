@@ -22,7 +22,7 @@ I am a Master's graduate in Cybersecurity and Information Assurance with a stron
 - **Tools & Platforms:** Kali Linux, Wireshark, Metasploit, Burp Suite, Splunk, ELK Stack, OSQuery  
 - **Cloud & Virtualization:** VMware, VirtualBox, AWS (basic)  
 - **Security:** Nmap, Nessus, Suricata, Zeek, Sigma, YARA  
-- **Version Control:** Git & GitHub
+- **Version Control:** GitHub
 
 ---
 
