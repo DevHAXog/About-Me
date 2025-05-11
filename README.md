@@ -72,7 +72,7 @@ I am a Master's graduate in Cybersecurity and Information Assurance with a stron
 
 ## 📂 Featured Projects
 
-- [Cybersecurity Homelab Setup](https://github.com/DevHAXog/homelab)  
+- [Homelab Setup](https://github.com/DevHAXog/homelab)  
 - [OSINT Toolkit](https://github.com/DevHAXog/osint-tools)  
 - [Pentesting CTF Writeups](https://github.com/DevHAXog/ctf-writeups)  
 
