@@ -81,7 +81,7 @@ I am a Master's graduate in Cybersecurity and Information Assurance with a stron
 ## 📫 Contact
 
 - **Email:** emmansdevin@gmail.com
-- **LinkedIn:** [Devin Emmans Bosley](https://www.linkedin.com/in/devin-emmans-bosley-491bb9203/)  
+- **LinkedIn:** <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="devin-emmans-bosley-491bb9203" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/devin-emmans-bosley-491bb9203?trk=profile-badge">Devin Emmans-Bosley</a></div>             
 - **GitHub:** [DevHAXog](https://github.com/DevHAXog)
 
 ---
